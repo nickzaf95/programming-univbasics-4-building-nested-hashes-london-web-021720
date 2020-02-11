@@ -23,7 +23,8 @@ def monopoly_with_third_tier
   # complexity.
   {railroads: {
     pieces: 4,
-    rent_in_dollars: {a: 0, b: 1, c: 2, d: 3}
+    rent_in_dollars: {a: 0, b: 1, c: 2, d: 3},
+    names: 1
       }
   }
 end
